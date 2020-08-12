@@ -1,0 +1,8 @@
+/dist
+/doc
+/node_modules
+
+/*.js
+/*.ts
+/*.json
+
